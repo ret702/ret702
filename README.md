@@ -1,5 +1,5 @@
 <h1 align="center">H1ro</h1>
-<h3 align="center">a l33t dev from the US</h3>
+<h3 align="center">a 1337 dev from the US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ret702&label=Profile%20views&color=0e75b6&style=flat" alt="ret702" /> </p>
 
